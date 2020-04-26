@@ -1,7 +1,8 @@
-# recipes
+# Recipes
 
 A new Flutter project.
 
+This App contains various food recipes
 ## Getting Started
 
 This project is a starting point for a Flutter application.
